@@ -9,7 +9,6 @@ A full-stack MERN travel-stay marketplace where users can list, browse, and book
 - 🧑‍💼 **User Authentication** – Signup, login, and role-based access  
 - 🏞 **Add/Edit/Delete Listings** – CRUD support for property listings  
 - 🗺 **Mapbox Integration** – Display locations on interactive maps  
-- 🖼 **Cloudinary Image Upload** – Store & manage listing images in cloud  
 - 📱 **Responsive UI** – Mobile-friendly design with smooth navigation  
 - 🔎 **Search and Filters** – Quickly find desired stays  
 - 🔐 **Secure Sessions** – Managed using express-session & cookies  
@@ -25,7 +24,6 @@ A full-stack MERN travel-stay marketplace where users can list, browse, and book
 | Backend      | Node.js, Express.js                        |
 | Database     | MongoDB, Mongoose                          |
 | Auth         | Passport.js, bcryptjs, express-session     |
-| File Uploads | Cloudinary                                 |
 | Maps         | Mapbox                                     |
 | Deployment   | [Render / Vercel / Netlify / Railway]      |
 
